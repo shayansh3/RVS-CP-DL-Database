@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "Shourabi"
+  given-names: "Shayan"
+  orcid: "https://orcid.org/0009-0003-1478-8636"
+- family-names: "Bakhshi"
+  given-names: "Ali"
+  orcid: "https://orcid.org/0000-0003-0001-8326"
+title: "Database of Rapid Visual Screening of Buildings for Potential Seismic Hazards: An Automated Deep Learning Classification Approach"
+version: 0.1.0
+doi: 10.5281/zenodo.13311882
+date-released: 2024-08-13
+url: "https://doi.org/10.5281/zenodo.13311882"
