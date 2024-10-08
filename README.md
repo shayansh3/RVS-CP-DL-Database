@@ -1,5 +1,5 @@
 # RVS-CP-DL-Database
-This database is collected by reserchers at Sharif University of Technology, Tehran, Iran.
+This database is collected by researchers at Sharif University of Technology, Tehran, Iran.
 
 It is used for Deep Learning / Computer Vision approach for Rapid Visual Screening for potential Seismic hazards provided by FEMA-154
 
