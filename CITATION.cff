@@ -16,11 +16,11 @@ preferred-citation:
   type: article
   authors:
 - family-names: "Shourabi"
-  given-names: "Shayan"
-  orcid: "https://orcid.org/0009-0003-1478-8636"
+    given-names: "Shayan"
+    orcid: "https://orcid.org/0009-0003-1478-8636"
 - family-names: "Bakhshi"
-  given-names: "Ali"
-  orcid: "https://orcid.org/0000-0003-0001-8326"
+    given-names: "Ali"
+    orcid: "https://orcid.org/0000-0003-0001-8326"
   doi: "10.1061/JCCEE5.CPENG-6030"
   journal: "Journal of Computing in Civil Engineering"
   volume: 39
@@ -29,4 +29,3 @@ preferred-citation:
   issue: 3
   volume: 39
   year: 2025
-  url: "https://ascelibrary.org/doi/abs/10.1061/JCCEE5.CPENG-6030"
