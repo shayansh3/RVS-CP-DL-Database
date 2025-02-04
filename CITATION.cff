@@ -15,18 +15,17 @@ url: "https://doi.org/10.5281/zenodo.13311882"
 preferred-citation:
   type: article
   authors:
-  - family-names: "Lisa"
-    given-names: "Mona"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  - family-names: "Bot"
-    given-names: "Hew"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  doi: "10.0000/00000"
-  journal: "Journal Title"
-  month: 9
-  start: 1 # First page number
-  end: 10 # Last page number
-  title: "My awesome research software"
-  issue: 1
-  volume: 1
-  year: 2021
+  - family-names: "Shourabi"
+    given-names: "Shayan"
+    orcid: "https://orcid.org/0009-0003-1478-8636"
+  - family-names: "Bakhshi"
+    given-names: "Ali"
+    orcid: "https://orcid.org/0000-0003-0001-8326"
+  doi: "10.1061/JCCEE5.CPENG-6030"
+  journal: "Journal of Computing in Civil Engineering"
+  month: 1
+  start: 04025016 # First page number
+  title: "Rapid Visual Screening of Buildings for Potential Seismic Hazards: Automated Deep-Learning Classification Approach"
+  issue: 3
+  volume: 39
+  year: 2025
