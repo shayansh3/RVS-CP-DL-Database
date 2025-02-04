@@ -1,7 +1,7 @@
 # RVS-CP-DL-Database
 This database is collected by researchers at Sharif University of Technology, Tehran, Iran.
 
-This database includes street-view images of building facades for different structural types and damaged/non-damaged buildings.
+This database includes street-view images of building facades for different structural types and damaged/not damaged buildings.
 
 It is used for Deep Learning / Computer Vision approach for Rapid Visual Screening for potential Seismic hazards provided by FEMA-154
 
