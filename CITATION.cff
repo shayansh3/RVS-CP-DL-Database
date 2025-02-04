@@ -24,8 +24,7 @@ preferred-citation:
   doi: "10.1061/JCCEE5.CPENG-6030"
   journal: "Journal of Computing in Civil Engineering"
   month: 1
-  start: 04025016 # First page number
-  end: 1
+  start: "04025016" # First page number
   title: "Rapid Visual Screening of Buildings for Potential Seismic Hazards: Automated Deep-Learning Classification Approach"
   issue: 3
   volume: 39
